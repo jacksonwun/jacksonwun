@@ -4,6 +4,8 @@
 
 ![](https://komarev.com/ghpvc/?username=jacksonwun&style=flat-square&color=blue)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jacksonwun)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **jacksonwun/jacksonwun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
