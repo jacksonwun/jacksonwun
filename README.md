@@ -7,6 +7,7 @@
 
 ![](https://komarev.com/ghpvc/?username=jacksonwun&style=flat-square&color=blue)
 
+![Leetcode Stats](https://leetcode.card.workers.dev/?username=jacksonwun)
 <!--
 **jacksonwun/jacksonwun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
