@@ -4,9 +4,10 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jacksonwun&layout=compact&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Leetcode Stats](https://leetcode.card.workers.dev/?username=jacksonwun)]
+![Leetcode Stats](https://leetcode.card.workers.dev/?username=jacksonwun)
 
 ![](https://komarev.com/ghpvc/?username=jacksonwun&style=flat-square&color=blue)
+
 <!--
 **jacksonwun/jacksonwun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
